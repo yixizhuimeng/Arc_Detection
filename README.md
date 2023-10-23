@@ -52,3 +52,42 @@ The relevant directories for the dataset are as follows：
             ├─0
             └─1
 '''
+'''
+├─test
+│  ├─capacitance1uf
+│  ├─inductance80uh
+│  │  └─150V
+│  │      ├─0
+│  │      └─1
+│  └─seven_group_resistors4
+│      ├─150V
+│      │  ├─0
+│      │  └─1
+│      ├─200V
+│      │  ├─0
+│      │  └─1
+│      ├─250V
+│      └─300V
+└─train
+    ├─capacitance1uf
+    │  └─200V
+    │      ├─0
+    │      └─1
+    ├─inductance80uh
+    │  └─150V
+    │      ├─0
+    │      └─1
+    └─seven_group_resistors4
+        ├─150V
+        │  ├─0
+        │  └─1
+        ├─200V
+        │  ├─0
+        │  └─1
+        ├─250V
+        │  ├─0
+        │  └─1
+        └─300V
+            ├─0
+            └─1
+            '''
