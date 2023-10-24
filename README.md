@@ -11,8 +11,6 @@ Weiyun Pan
 Link: https://share.weiyun.com/cNE9GV4V 
 Code: eih4px
 
-ALi Pan:
-Link: https://github.com/yixizhuimeng?tab=projects
 
 
 About Dataset:
