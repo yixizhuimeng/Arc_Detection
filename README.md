@@ -10,6 +10,8 @@ Code：hbhl
 Weiyun Pan
 Link: https://share.weiyun.com/cNE9GV4V 
 Code: eih4px
+
+
 About Dataset:
 The Arc Fault Detection Database is acquired by the arc fault collector based on electromagnetic induction under the voltage of 100-300V. Due to the non-obvious arc fault status of some data under certain scenarios and voltages, we uniformly filtered this part of the data. In the database, we use 0 to represent the collected normal current and 1 to represent the arc fault current in different situations.
 The relevant directories for the dataset are as follows：
